@@ -12,6 +12,6 @@ public class BuatVariable {
 
         //final constanta
         final float nilaiPhytagoras = 3.14F;
-            nilaiPhytagoras = 1.3F;
+            // nilaiPhytagoras = 1.3F;
     }
 }
